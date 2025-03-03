@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zxyphoon
 - 👀 I’m interested in ...coding/sfotware work in general  
-- 🌱 I’m currently learning ...c/python/assembly  
+- 🌱 I’m currently learning ...c/python/assembly/java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...priyojitsarkar21@gmail.com  
 - 😄 Pronouns: ...he/him  
