@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyojit
 - 👀 I’m interested in ...coding/software work in general  
-- 🌱 I’m currently learning ...c/python/assembly/java 
+- 🌱 I’m currently learning ...c/python/java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...priyojitsarkar21@gmail.com  
 - 😄 Pronouns: ...he/him  
