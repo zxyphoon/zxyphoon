@@ -5,6 +5,7 @@
 - 📫 How to reach me ...priyojitsarkar21@gmail.com  
 - 😄 Pronouns: ...he/him  
 - ⚡ Fun fact: ...sunset on mars appears blue
+- Languages I am currently working on/learning:
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,java,c,)](https://skillicons.dev)
 
 <!---
